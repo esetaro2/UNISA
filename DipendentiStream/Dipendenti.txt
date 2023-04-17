@@ -1,0 +1,6 @@
+Dipendente [nome=Giovanni, cognome=Zaccuri, id=0, salario=3000.0] Indeterminato [qualificaSettoriale=Informatico]
+Dipendente [nome=Giorgio, cognome=Vanni, id=1, salario=2500.0] Indeterminato [qualificaSettoriale=Cantante]
+Dipendente [nome=Luca, cognome=Messi, id=2, salario=900.0] Stagista [supervisore=Dipendente [nome=Giovanni, cognome=Zaccuri, id=0, salario=3000.0] Indeterminato [qualificaSettoriale=Informatico]]
+Dipendente [nome=Elena, cognome=Elefante, id=3, salario=800.0] Stagista [supervisore=Dipendente [nome=Giorgio, cognome=Vanni, id=1, salario=2500.0] Indeterminato [qualificaSettoriale=Cantante]]
+Dipendente [nome=Loredana, cognome=Bertè, id=4, salario=1500.0] Determinato [dataFineContratto=28/08/2023]
+Dipendente [nome=Carlo, cognome=Infante, id=5, salario=2000.0] Determinato [dataFineContratto=25/12/3000]
