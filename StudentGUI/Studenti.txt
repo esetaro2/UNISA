@@ -1,0 +1,6 @@
+Studente [nome=nome, cognome=copfnoew, matricola=6+5465456, eta=18, tipo=0]
+Studente [nome=nome, cognome=copfnoew, matricola=6+5465456, eta=21, tipo=0]
+Studente [nome=nome, cognome=copfnoew, matricola=6+5465456, eta=21, tipo=1]
+Studente [nome=nome, cognome=copfnoew, matricola=6+5465456, eta=26, tipo=0]
+Studente [nome=nome, cognome=copfnoew, matricola=6+5465456, eta=33, tipo=1]
+Studente [nome=nome, cognome=copfnoew, matricola=6+5465456, eta=44, tipo=1]
