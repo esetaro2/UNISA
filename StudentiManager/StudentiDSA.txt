@@ -1,0 +1,3 @@
+Studente [nome=Giorgio, cognome=Coglione, matricola=0231321321, anni=19] StudenteDSA [patologia=Dislessia]
+Studente [nome=Giovanni, cognome=Zaccuri, matricola=2313241564, anni=22] StudenteDSA [patologia=Segaiolaggine acuta]
+Studente [nome=Marco, cognome=Segaro, matricola=012369, anni=24] StudenteDSA [patologia=Segaiolaggine suprema]

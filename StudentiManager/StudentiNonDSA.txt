@@ -1,0 +1,3 @@
+Studente [nome=Giovanni, cognome=Muchacha, matricola=123545, anni=20]
+Studente [nome=Mario, cognome=Rossi, matricola=0231321313, anni=18]
+Studente [nome=Dario, cognome=Moccia, matricola=023164851231, anni=25]
