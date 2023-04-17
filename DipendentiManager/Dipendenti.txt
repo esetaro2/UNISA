@@ -1,0 +1,6 @@
+Dipendente [id=1, nome=Giselmo, surname=Orsini, salario=1200.0] Determinato [dataFineContratto=22/02/2022]
+Dipendente [id=2, nome=Giacomo, surname=Cannavacciuolo, salario=2000.0] Determinato [dataFineContratto=12/11/2024]
+Dipendente [id=3, nome=Mattia, surname=Pescara, salario=1500.0] Indeterminato [qualifica=Attaccatore di francobolli]
+Dipendente [id=4, nome=Elena, surname=Amato, salario=1300.0] Indeterminato [qualifica=Informatica professionista]
+Dipendente [id=5, nome=Ermenegildo, surname=Pescijman, salario=700.0] Stagista [idSupervisore=3]
+Dipendente [id=6, nome=Minchia, surname=Enorme, salario=800.0] Stagista [idSupervisore=4]
